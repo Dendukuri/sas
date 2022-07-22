@@ -1,0 +1,429 @@
+Make,Model,Type,Origin,DriveTrain,MSRP
+Acura,MDX,SUV,Asia,All,36945
+Acura,RSX Type S 2dr,Sedan,Asia,Front,23820
+Acura,TSX 4dr,Sedan,Asia,Front,26990
+Acura,TL 4dr,Sedan,Asia,Front,33195
+Acura,3.5 RL 4dr,Sedan,Asia,Front,43755
+Acura,3.5 RL w/Navigation 4dr,Sedan,Asia,Front,46100
+Acura,NSX coupe 2dr manual S,Sports,Asia,Rear,89765
+Audi,A4 1.8T 4dr,Sedan,Europe,Front,25940
+Audi,A41.8T convertible 2dr,Sedan,Europe,Front,35940
+Audi,A4 3.0 4dr,Sedan,Europe,Front,31840
+Audi,A4 3.0 Quattro 4dr manual,Sedan,Europe,All,33430
+Audi,A4 3.0 Quattro 4dr auto,Sedan,Europe,All,34480
+Audi,A6 3.0 4dr,Sedan,Europe,Front,36640
+Audi,A6 3.0 Quattro 4dr,Sedan,Europe,All,39640
+Audi,A4 3.0 convertible 2dr,Sedan,Europe,Front,42490
+Audi,A4 3.0 Quattro convertible 2dr,Sedan,Europe,All,44240
+Audi,A6 2.7 Turbo Quattro 4dr,Sedan,Europe,All,42840
+Audi,A6 4.2 Quattro 4dr,Sedan,Europe,All,49690
+Audi,A8 L Quattro 4dr,Sedan,Europe,All,69190
+Audi,S4 Quattro 4dr,Sedan,Europe,All,48040
+Audi,RS 6 4dr,Sports,Europe,Front,84600
+Audi,TT 1.8 convertible 2dr (coupe),Sports,Europe,Front,35940
+Audi,TT 1.8 Quattro 2dr (convertible),Sports,Europe,All,37390
+Audi,TT 3.2 coupe 2dr (convertible),Sports,Europe,All,40590
+Audi,A6 3.0 Avant Quattro,Wagon,Europe,All,40840
+Audi,S4 Avant Quattro,Wagon,Europe,All,49090
+BMW,X3 3.0i,SUV,Europe,All,37000
+BMW,X5 4.4i,SUV,Europe,All,52195
+BMW,325i 4dr,Sedan,Europe,Rear,28495
+BMW,325Ci 2dr,Sedan,Europe,Rear,30795
+BMW,325Ci convertible 2dr,Sedan,Europe,Rear,37995
+BMW,325xi 4dr,Sedan,Europe,All,30245
+BMW,330i 4dr,Sedan,Europe,Rear,35495
+BMW,330Ci 2dr,Sedan,Europe,Rear,36995
+BMW,330xi 4dr,Sedan,Europe,All,37245
+BMW,525i 4dr,Sedan,Europe,Rear,39995
+BMW,330Ci convertible 2dr,Sedan,Europe,Rear,44295
+BMW,530i 4dr,Sedan,Europe,Rear,44995
+BMW,545iA 4dr,Sedan,Europe,Rear,54995
+BMW,745i 4dr,Sedan,Europe,Rear,69195
+BMW,745Li 4dr,Sedan,Europe,Rear,73195
+BMW,M3 coupe 2dr,Sports,Europe,Rear,48195
+BMW,M3 convertible 2dr,Sports,Europe,Rear,56595
+BMW,Z4 convertible 2.5i 2dr,Sports,Europe,Rear,33895
+BMW,Z4 convertible 3.0i 2dr,Sports,Europe,Rear,41045
+BMW,325xi Sport,Wagon,Europe,All,32845
+Buick,Rainier,SUV,USA,All,37895
+Buick,Rendezvous CX,SUV,USA,Front,26545
+Buick,Century Custom 4dr,Sedan,USA,Front,22180
+Buick,LeSabre Custom 4dr,Sedan,USA,Front,26470
+Buick,Regal LS 4dr,Sedan,USA,Front,24895
+Buick,Regal GS 4dr,Sedan,USA,Front,28345
+Buick,LeSabre Limited 4dr,Sedan,USA,Front,32245
+Buick,Park Avenue 4dr,Sedan,USA,Front,35545
+Buick,Park Avenue Ultra 4dr,Sedan,USA,Front,40720
+Cadillac,Escalade,SUV,USA,Front,52795
+Cadillac,SRX V8,SUV,USA,Front,46995
+Cadillac,CTS VVT 4dr,Sedan,USA,Rear,30835
+Cadillac,Deville 4dr,Sedan,USA,Front,45445
+Cadillac,Deville DTS 4dr,Sedan,USA,Front,50595
+Cadillac,Seville SLS 4dr,Sedan,USA,Front,47955
+Cadillac,XLR convertible 2dr,Sports,USA,Rear,76200
+Cadillac,Escalade EXT,Truck,USA,All,52975
+Chevrolet,Suburban 1500 LT,SUV,USA,Front,42735
+Chevrolet,Tahoe LT,SUV,USA,All,41465
+Chevrolet,TrailBlazer LT,SUV,USA,Front,30295
+Chevrolet,Tracker,SUV,USA,Front,20255
+Chevrolet,Aveo 4dr,Sedan,USA,Front,11690
+Chevrolet,Aveo LS 4dr hatch,Sedan,USA,Front,12585
+Chevrolet,Cavalier 2dr,Sedan,USA,Front,14610
+Chevrolet,Cavalier 4dr,Sedan,USA,Front,14810
+Chevrolet,Cavalier LS 2dr,Sedan,USA,Front,16385
+Chevrolet,Impala 4dr,Sedan,USA,Front,21900
+Chevrolet,Malibu 4dr,Sedan,USA,Front,18995
+Chevrolet,Malibu LS 4dr,Sedan,USA,Front,20370
+Chevrolet,Monte Carlo LS 2dr,Sedan,USA,Front,21825
+Chevrolet,Impala LS 4dr,Sedan,USA,Front,25000
+Chevrolet,Impala SS 4dr,Sedan,USA,Front,27995
+Chevrolet,Malibu LT 4dr,Sedan,USA,Front,23495
+Chevrolet,Monte Carlo SS 2dr,Sedan,USA,Front,24225
+Chevrolet,Astro,Sedan,USA,All,26395
+Chevrolet,Venture LS,Sedan,USA,Front,27020
+Chevrolet,Corvette 2dr,Sports,USA,Rear,44535
+Chevrolet,Corvette convertible 2dr,Sports,USA,Rear,51535
+Chevrolet,Avalanche 1500,Truck,USA,All,36100
+Chevrolet,Colorado Z85,Truck,USA,All,18760
+Chevrolet,Silverado 1500 Regular Cab,Truck,USA,Rear,20310
+Chevrolet,Silverado SS,Truck,USA,All,40340
+Chevrolet,SSR,Truck,USA,Rear,41995
+Chevrolet,Malibu Maxx LS,Wagon,USA,Front,22225
+Chrysler,PT Cruiser 4dr,Sedan,USA,Front,17985
+Chrysler,PT Cruiser Limited 4dr,Sedan,USA,Front,22000
+Chrysler,Sebring 4dr,Sedan,USA,Front,19090
+Chrysler,Sebring Touring 4dr,Sedan,USA,Front,21840
+Chrysler,300M 4dr,Sedan,USA,Front,29865
+Chrysler,Concorde LX 4dr,Sedan,USA,Front,24130
+Chrysler,Concorde LXi 4dr,Sedan,USA,Front,26860
+Chrysler,PT Cruiser GT 4dr,Sedan,USA,Front,25955
+Chrysler,Sebring convertible 2dr,Sedan,USA,Front,25215
+Chrysler,300M Special Edition 4dr,Sedan,USA,Front,33295
+Chrysler,Sebring Limited convertible 2dr,Sedan,USA,Front,30950
+Chrysler,Town and Country LX,Sedan,USA,Front,27490
+Chrysler,Town and Country Limited,Sedan,USA,Front,38380
+Chrysler,Crossfire 2dr,Sports,USA,Rear,34495
+Chrysler,Pacifica,Wagon,USA,Rear,31230
+Dodge,Durango SLT,SUV,USA,All,32235
+Dodge,Neon SE 4dr,Sedan,USA,Front,13670
+Dodge,Neon SXT 4dr,Sedan,USA,Front,15040
+Dodge,Intrepid SE 4dr,Sedan,USA,Front,22035
+Dodge,Stratus SXT 4dr,Sedan,USA,Front,18820
+Dodge,Stratus SE 4dr,Sedan,USA,Front,20220
+Dodge,Intrepid ES 4dr,Sedan,USA,Front,24885
+Dodge,Caravan SE,Sedan,USA,Front,21795
+Dodge,Grand Caravan SXT,Sedan,USA,All,32660
+Dodge,Viper SRT-10 convertible 2dr,Sports,USA,Rear,81795
+Dodge,Dakota Regular Cab,Truck,USA,Rear,17630
+Dodge,Dakota Club Cab,Truck,USA,Rear,20300
+Dodge,Ram 1500 Regular Cab ST,Truck,USA,Rear,20215
+Ford,Excursion 6.8 XLT,SUV,USA,All,41475
+Ford,Expedition 4.6 XLT,SUV,USA,Front,34560
+Ford,Explorer XLT V6,SUV,USA,All,29670
+Ford,Escape XLS,SUV,USA,All,22515
+Ford,Focus ZX3 2dr hatch,Sedan,USA,Front,13270
+Ford,Focus LX 4dr,Sedan,USA,Front,13730
+Ford,Focus SE 4dr,Sedan,USA,Front,15460
+Ford,Focus ZX5 5dr,Sedan,USA,Front,15580
+Ford,Focus SVT 2dr,Sedan,USA,Front,19135
+Ford,Taurus LX 4dr,Sedan,USA,Front,20320
+Ford,Taurus SES Duratec 4dr,Sedan,USA,Front,22735
+Ford,Crown Victoria 4dr,Sedan,USA,Rear,24345
+Ford,Crown Victoria LX 4dr,Sedan,USA,Rear,27370
+Ford,Crown Victoria LX Sport 4dr,Sedan,USA,Rear,30315
+Ford,Freestar SE,Sedan,USA,Front,26930
+Ford,Mustang 2dr (convertible),Sports,USA,Rear,18345
+Ford,Mustang GT Premium convertible 2dr,Sports,USA,Rear,29380
+Ford,Thunderbird Deluxe convert w/hardtop 2d,Sports,USA,Front,37530
+Ford,F-150 Regular Cab XL,Truck,USA,Rear,22010
+Ford,F-150 Supercab Lariat,Truck,USA,All,33540
+Ford,Ranger 2.3 XL Regular Cab,Truck,USA,Rear,14385
+Ford,Focus ZTW,Wagon,USA,Front,17475
+Ford,Taurus SE,Wagon,USA,Front,22290
+GMC,Envoy XUV SLE,SUV,USA,Front,31890
+GMC,Yukon 1500 SLE,SUV,USA,Front,35725
+GMC,Yukon XL 2500 SLT,SUV,USA,All,46265
+GMC,Safari SLE,Sedan,USA,Rear,25640
+GMC,Canyon Z85 SL Regular Cab,Truck,USA,Rear,16530
+GMC,Sierra Extended Cab 1500,Truck,USA,Rear,25717
+GMC,Sierra HD 2500,Truck,USA,All,29322
+GMC,Sonoma Crew Cab,Truck,USA,All,25395
+Honda,Civic Hybrid 4dr manual (gas/electric),Hybrid,Asia,Front,20140
+Honda,Insight 2dr (gas/electric),Hybrid,Asia,Front,19110
+Honda,Pilot LX,SUV,Asia,All,27560
+Honda,CR-V LX,SUV,Asia,All,19860
+Honda,Element LX,SUV,Asia,All,18690
+Honda,Civic DX 2dr,Sedan,Asia,Front,13270
+Honda,Civic HX 2dr,Sedan,Asia,Front,14170
+Honda,Civic LX 4dr,Sedan,Asia,Front,15850
+Honda,Accord LX 2dr,Sedan,Asia,Front,19860
+Honda,Accord EX 2dr,Sedan,Asia,Front,22260
+Honda,Civic EX 4dr,Sedan,Asia,Front,17750
+Honda,Civic Si 2dr hatch,Sedan,Asia,Front,19490
+Honda,Accord LX V6 4dr,Sedan,Asia,Front,23760
+Honda,Accord EX V6 2dr,Sedan,Asia,Front,26960
+Honda,Odyssey LX,Sedan,Asia,Front,24950
+Honda,Odyssey EX,Sedan,Asia,Front,27450
+Honda,S2000 convertible 2dr,Sports,Asia,Rear,33260
+Hummer,H2,SUV,USA,All,49995
+Hyundai,Santa Fe GLS,SUV,Asia,Front,21589
+Hyundai,Accent 2dr hatch,Sedan,Asia,Front,10539
+Hyundai,Accent GL 4dr,Sedan,Asia,Front,11839
+Hyundai,Accent GT 2dr hatch,Sedan,Asia,Front,11939
+Hyundai,Elantra GLS 4dr,Sedan,Asia,Front,13839
+Hyundai,Elantra GT 4dr,Sedan,Asia,Front,15389
+Hyundai,Elantra GT 4dr hatch,Sedan,Asia,Front,15389
+Hyundai,Sonata GLS 4dr,Sedan,Asia,Front,19339
+Hyundai,Sonata LX 4dr,Sedan,Asia,Front,20339
+Hyundai,XG350 4dr,Sedan,Asia,Front,24589
+Hyundai,XG350 L 4dr,Sedan,Asia,Front,26189
+Hyundai,Tiburon GT V6 2dr,Sports,Asia,Front,18739
+Infiniti,G35 4dr,Sedan,Asia,Rear,28495
+Infiniti,G35 Sport Coupe 2dr,Sedan,Asia,Rear,29795
+Infiniti,G35 4dr,Sedan,Asia,All,32445
+Infiniti,I35 4dr,Sedan,Asia,Front,31145
+Infiniti,M45 4dr,Sedan,Asia,Rear,42845
+Infiniti,Q45 Luxury 4dr,Sedan,Asia,Rear,52545
+Infiniti,FX35,Wagon,Asia,Rear,34895
+Infiniti,FX45,Wagon,Asia,All,36395
+Isuzu,Ascender S,SUV,Asia,All,31849
+Isuzu,Rodeo S,SUV,Asia,Front,20449
+Jaguar,X-Type 2.5 4dr,Sedan,Europe,All,29995
+Jaguar,X-Type 3.0 4dr,Sedan,Europe,All,33995
+Jaguar,S-Type 3.0 4dr,Sedan,Europe,Rear,43895
+Jaguar,S-Type 4.2 4dr,Sedan,Europe,Rear,49995
+Jaguar,S-Type R 4dr,Sedan,Europe,Rear,63120
+Jaguar,Vanden Plas 4dr,Sedan,Europe,Rear,68995
+Jaguar,XJ8 4dr,Sedan,Europe,Rear,59995
+Jaguar,XJR 4dr,Sedan,Europe,Rear,74995
+Jaguar,XK8 coupe 2dr,Sports,Europe,Rear,69995
+Jaguar,XK8 convertible 2dr,Sports,Europe,Rear,74995
+Jaguar,XKR coupe 2dr,Sports,Europe,Rear,81995
+Jaguar,XKR convertible 2dr,Sports,Europe,Rear,86995
+Jeep,Grand Cherokee Laredo,SUV,USA,Front,27905
+Jeep,Liberty Sport,SUV,USA,All,20130
+Jeep,Wrangler Sahara convertible 2dr,SUV,USA,All,25520
+Kia,Sorento LX,SUV,Asia,Front,19635
+Kia,Optima LX 4dr,Sedan,Asia,Front,16040
+Kia,Rio 4dr manual,Sedan,Asia,Front,10280
+Kia,Rio 4dr auto,Sedan,Asia,Front,11155
+Kia,Spectra 4dr,Sedan,Asia,Front,12360
+Kia,Spectra GS 4dr hatch,Sedan,Asia,Front,13580
+Kia,Spectra GSX 4dr hatch,Sedan,Asia,Front,14630
+Kia,Optima LX V6 4dr,Sedan,Asia,Front,18435
+Kia,Amanti 4dr,Sedan,Asia,Front,26000
+Kia,Sedona LX,Sedan,Asia,Front,20615
+Kia,Rio Cinco,Wagon,Asia,Front,11905
+Land Rover,Range Rover HSE,SUV,Europe,All,72250
+Land Rover,Discovery SE,SUV,Europe,All,39250
+Land Rover,Freelander SE,SUV,Europe,All,25995
+Lexus,GX 470,SUV,Asia,All,45700
+Lexus,LX 470,SUV,Asia,All,64800
+Lexus,RX 330,SUV,Asia,All,39195
+Lexus,ES 330 4dr,Sedan,Asia,Front,32350
+Lexus,IS 300 4dr manual,Sedan,Asia,Rear,31045
+Lexus,IS 300 4dr auto,Sedan,Asia,Rear,32415
+Lexus,GS 300 4dr,Sedan,Asia,Rear,41010
+Lexus,GS 430 4dr,Sedan,Asia,Rear,48450
+Lexus,LS 430 4dr,Sedan,Asia,Rear,55750
+Lexus,SC 430 convertible 2dr,Sports,Asia,Rear,63200
+Lexus,IS 300 SportCross,Wagon,Asia,Rear,32455
+Lincoln,Navigator Luxury,SUV,USA,All,52775
+Lincoln,Aviator Ultimate,SUV,USA,Front,42915
+Lincoln,LS V6 Luxury 4dr,Sedan,USA,Rear,32495
+Lincoln,LS V6 Premium 4dr,Sedan,USA,Rear,36895
+Lincoln,LS V8 Sport 4dr,Sedan,USA,Rear,40095
+Lincoln,LS V8 Ultimate 4dr,Sedan,USA,Rear,43495
+Lincoln,Town Car Signature 4dr,Sedan,USA,Rear,41815
+Lincoln,Town Car Ultimate 4dr,Sedan,USA,Rear,44925
+Lincoln,Town Car Ultimate L 4dr,Sedan,USA,Rear,50470
+MINI,Cooper,Sedan,Europe,Front,16999
+MINI,Cooper S,Sedan,Europe,Front,19999
+Mazda,Tribute DX 2.0,SUV,Asia,All,21087
+Mazda,Mazda3 i 4dr,Sedan,Asia,Front,15500
+Mazda,Mazda3 s 4dr,Sedan,Asia,Front,17200
+Mazda,Mazda6 i 4dr,Sedan,Asia,Front,19270
+Mazda,MPV ES,Sedan,Asia,Front,28750
+Mazda,MX-5 Miata convertible 2dr,Sports,Asia,Rear,22388
+Mazda,MX-5 Miata LS convertible 2dr,Sports,Asia,Rear,25193
+Mazda,RX-8 4dr automatic,Sports,Asia,Rear,25700
+Mazda,RX-8 4dr manual,Sports,Asia,Rear,27200
+Mazda,B2300 SX Regular Cab,Truck,Asia,Rear,14840
+Mazda,B4000 SE Cab Plus,Truck,Asia,All,22350
+Mercedes-Benz,G500,SUV,Europe,All,76870
+Mercedes-Benz,ML500,SUV,Europe,All,46470
+Mercedes-Benz,C230 Sport 2dr,Sedan,Europe,Rear,26060
+Mercedes-Benz,C320 Sport 2dr,Sedan,Europe,Rear,28370
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear,32280
+Mercedes-Benz,C240 4dr,Sedan,Europe,All,33480
+Mercedes-Benz,C320 Sport 4dr,Sedan,Europe,Rear,35920
+Mercedes-Benz,C320 4dr,Sedan,Europe,Rear,37630
+Mercedes-Benz,C320 4dr,Sedan,Europe,All,38830
+Mercedes-Benz,C32 AMG 4dr,Sedan,Europe,Rear,52120
+Mercedes-Benz,CL500 2dr,Sedan,Europe,Rear,94820
+Mercedes-Benz,CL600 2dr,Sedan,Europe,Rear,128420
+Mercedes-Benz,CLK320 coupe 2dr (convertible),Sedan,Europe,Rear,45707
+Mercedes-Benz,CLK500 coupe 2dr (convertible),Sedan,Europe,Rear,52800
+Mercedes-Benz,E320 4dr,Sedan,Europe,Rear,48170
+Mercedes-Benz,E500 4dr,Sedan,Europe,Rear,57270
+Mercedes-Benz,S430 4dr,Sedan,Europe,Rear,74320
+Mercedes-Benz,S500 4dr,Sedan,Europe,All,86970
+Mercedes-Benz,SL500 convertible 2dr,Sports,Europe,Rear,90520
+Mercedes-Benz,SL55 AMG 2dr,Sports,Europe,Rear,121770
+Mercedes-Benz,SL600 convertible 2dr,Sports,Europe,Rear,126670
+Mercedes-Benz,SLK230 convertible 2dr,Sports,Europe,Rear,40320
+Mercedes-Benz,SLK32 AMG 2dr,Sports,Europe,Rear,56170
+Mercedes-Benz,C240,Wagon,Europe,Rear,33780
+Mercedes-Benz,E320,Wagon,Europe,Rear,50670
+Mercedes-Benz,E500,Wagon,Europe,All,60670
+Mercury,Mountaineer,SUV,USA,Front,29995
+Mercury,Sable GS 4dr,Sedan,USA,Front,21595
+Mercury,Grand Marquis GS 4dr,Sedan,USA,Rear,24695
+Mercury,Grand Marquis LS Premium 4dr,Sedan,USA,Rear,29595
+Mercury,Sable LS Premium 4dr,Sedan,USA,Front,23895
+Mercury,Grand Marquis LS Ultimate 4dr,Sedan,USA,Rear,30895
+Mercury,Marauder 4dr,Sedan,USA,Rear,34495
+Mercury,Monterey Luxury,Sedan,USA,Front,33995
+Mercury,Sable GS,Wagon,USA,Front,22595
+Mitsubishi,Endeavor XLS,SUV,Asia,All,30492
+Mitsubishi,Montero XLS,SUV,Asia,All,33112
+Mitsubishi,Outlander LS,SUV,Asia,Front,18892
+Mitsubishi,Lancer ES 4dr,Sedan,Asia,Front,14622
+Mitsubishi,Lancer LS 4dr,Sedan,Asia,Front,16722
+Mitsubishi,Galant ES 2.4L 4dr,Sedan,Asia,Front,19312
+Mitsubishi,Lancer OZ Rally 4dr auto,Sedan,Asia,Front,17232
+Mitsubishi,Diamante LS 4dr,Sedan,Asia,Front,29282
+Mitsubishi,Galant GTS 4dr,Sedan,Asia,Front,25700
+Mitsubishi,Eclipse GTS 2dr,Sports,Asia,Front,25092
+Mitsubishi,Eclipse Spyder GT convertible 2dr,Sports,Asia,Front,26992
+Mitsubishi,Lancer Evolution 4dr,Sports,Asia,Front,29562
+Mitsubishi,Lancer Sportback LS,Wagon,Asia,Front,17495
+Nissan,Pathfinder Armada SE,SUV,Asia,Front,33840
+Nissan,Pathfinder SE,SUV,Asia,Front,27339
+Nissan,Xterra XE V6,SUV,Asia,Front,20939
+Nissan,Sentra 1.8 4dr,Sedan,Asia,Front,12740
+Nissan,Sentra 1.8 S 4dr,Sedan,Asia,Front,14740
+Nissan,Altima S 4dr,Sedan,Asia,Front,19240
+Nissan,Sentra SE-R 4dr,Sedan,Asia,Front,17640
+Nissan,Altima SE 4dr,Sedan,Asia,Front,23290
+Nissan,Maxima SE 4dr,Sedan,Asia,Front,27490
+Nissan,Maxima SL 4dr,Sedan,Asia,Front,29440
+Nissan,Quest S,Sedan,Asia,Front,24780
+Nissan,Quest SE,Sedan,Asia,Front,32780
+Nissan,350Z coupe 2dr,Sports,Asia,Rear,26910
+Nissan,350Z Enthusiast convertible 2dr,Sports,Asia,Rear,34390
+Nissan,Frontier King Cab XE V6,Truck,Asia,All,19479
+Nissan,Titan King Cab XE,Truck,Asia,All,26650
+Nissan,Murano SL,Wagon,Asia,Rear,28739
+Oldsmobile,Alero GX 2dr,Sedan,USA,Front,18825
+Oldsmobile,Alero GLS 2dr,Sedan,USA,Front,23675
+Oldsmobile,Silhouette GL,Sedan,USA,Front,28790
+Pontiac,Aztekt,SUV,USA,Front,21595
+Pontiac,Sunfire 1SA 2dr,Sedan,USA,Front,15495
+Pontiac,Grand Am GT 2dr,Sedan,USA,Front,22450
+Pontiac,Grand Prix GT1 4dr,Sedan,USA,Front,22395
+Pontiac,Sunfire 1SC 2dr,Sedan,USA,Front,17735
+Pontiac,Grand Prix GT2 4dr,Sedan,USA,Front,24295
+Pontiac,Bonneville GXP 4dr,Sedan,USA,Front,35995
+Pontiac,Montana,Sedan,USA,Front,23845
+Pontiac,Montana EWB,Sedan,USA,All,31370
+Pontiac,GTO 2dr,Sports,USA,Rear,33500
+Pontiac,Vibe,Wagon,USA,Rear,17045
+Porsche,Cayenne S,SUV,Europe,All,56665
+Porsche,911 Carrera convertible 2dr (coupe),Sports,Europe,Rear,79165
+Porsche,911 Carrera 4S coupe 2dr (convert),Sports,Europe,All,84165
+Porsche,911 Targa coupe 2dr,Sports,Europe,Rear,76765
+Porsche,911 GT2 2dr,Sports,Europe,Rear,192465
+Porsche,Boxster convertible 2dr,Sports,Europe,Rear,43365
+Porsche,Boxster S convertible 2dr,Sports,Europe,Rear,52365
+Saab,9-3 Arc Sport 4dr,Sedan,Europe,Front,30860
+Saab,9-3 Aero 4dr,Sedan,Europe,Front,33360
+Saab,9-5 Arc 4dr,Sedan,Europe,Front,35105
+Saab,9-5 Aero 4dr,Sedan,Europe,Front,39465
+Saab,9-3 Arc convertible 2dr,Sedan,Europe,Front,40670
+Saab,9-3 Aero convertible 2dr,Sedan,Europe,Front,43175
+Saab,9-5 Aero,Wagon,Europe,Front,40845
+Saturn,VUE,SUV,USA,All,20585
+Saturn,Ion1 4dr,Sedan,USA,Front,10995
+Saturn,lon2 4dr,Sedan,USA,Front,14300
+Saturn,lon3 4dr,Sedan,USA,Front,15825
+Saturn,lon2 quad coupe 2dr,Sedan,USA,Front,14850
+Saturn,lon3 quad coupe 2dr,Sedan,USA,Front,16350
+Saturn,L300-2 4dr,Sedan,USA,Front,21410
+Saturn,L300 2,Wagon,USA,Front,23560
+Scion,xA 4dr hatch,Sedan,Asia,Front,12965
+Scion,xB,Wagon,Asia,Front,14165
+Subaru,Impreza 2.5 RS 4dr,Sedan,Asia,All,19945
+Subaru,Legacy L 4dr,Sedan,Asia,All,20445
+Subaru,Legacy GT 4dr,Sedan,Asia,All,25645
+Subaru,Outback Limited Sedan 4dr,Sedan,Asia,All,27145
+Subaru,Outback H6 4dr,Sedan,Asia,All,29345
+Subaru,Outback H-6 VDC 4dr,Sedan,Asia,All,31545
+Subaru,Impreza WRX 4dr,Sports,Asia,All,25045
+Subaru,Impreza WRX STi 4dr,Sports,Asia,All,31545
+Subaru,Baja,Truck,Asia,All,24520
+Subaru,Forester X,Wagon,Asia,All,21445
+Subaru,Outback,Wagon,Asia,All,23895
+Suzuki,XL-7 EX,SUV,Asia,Front,23699
+Suzuki,Vitara LX,SUV,Asia,All,17163
+Suzuki,Aeno S 4dr,Sedan,Asia,Front,12884
+Suzuki,Aerio LX 4dr,Sedan,Asia,Front,14500
+Suzuki,Forenza S 4dr,Sedan,Asia,Front,12269
+Suzuki,Forenza EX 4dr,Sedan,Asia,Front,15568
+Suzuki,Verona LX 4dr,Sedan,Asia,Front,17262
+Suzuki,Aerio SX,Wagon,Asia,All,16497
+Toyota,Prius 4dr (gas/electric),Hybrid,Asia,Front,20510
+Toyota,Sequoia SR5,SUV,Asia,All,35695
+Toyota,4Runner SR5 V6,SUV,Asia,Front,27710
+Toyota,Highlander V6,SUV,Asia,All,27930
+Toyota,Land Cruiser,SUV,Asia,All,54765
+Toyota,RAV4,SUV,Asia,All,20290
+Toyota,Corolla CE 4dr,Sedan,Asia,Front,14085
+Toyota,Corolla S 4dr,Sedan,Asia,Front,15030
+Toyota,Corolla LE 4dr,Sedan,Asia,Front,15295
+Toyota,Echo 2dr manual,Sedan,Asia,Front,10760
+Toyota,Echo 2dr auto,Sedan,Asia,Front,11560
+Toyota,Echo 4dr,Sedan,Asia,Front,11290
+Toyota,Camry LE 4dr,Sedan,Asia,Front,19560
+Toyota,Camry LE V6 4dr,Sedan,Asia,Front,22775
+Toyota,Camry Solara SE 2dr,Sedan,Asia,Front,19635
+Toyota,Camry Solara SE V6 2dr,Sedan,Asia,Front,21965
+Toyota,Avalon XL 4dr,Sedan,Asia,Front,26560
+Toyota,Camry XLE V6 4dr,Sedan,Asia,Front,25920
+Toyota,Camry Solara SLE V6 2dr,Sedan,Asia,Front,26510
+Toyota,Avalon XLS 4dr,Sedan,Asia,Front,30920
+Toyota,Sienna CE,Sedan,Asia,Front,23495
+Toyota,Sienna XLE Limited,Sedan,Asia,Front,28800
+Toyota,Celica GT-S 2dr,Sports,Asia,Front,22570
+Toyota,MR2 Spyder convertible 2dr,Sports,Asia,Rear,25130
+Toyota,Tacoma,Truck,Asia,Rear,12800
+Toyota,Tundra Regular Cab V6,Truck,Asia,Rear,16495
+Toyota,Tundra Access Cab V6 SR5,Truck,Asia,All,25935
+Toyota,Matrix XR,Wagon,Asia,Front,16695
+Volkswagen,Touareg V6,SUV,Europe,All,35515
+Volkswagen,Golf GLS 4dr,Sedan,Europe,Front,18715
+Volkswagen,GTI 1.8T 2dr hatch,Sedan,Europe,Front,19825
+Volkswagen,Jetta GLS TDI 4dr,Sedan,Europe,Front,21055
+Volkswagen,New Beetle GLS 1.8T 2dr,Sedan,Europe,Front,21055
+Volkswagen,Jetta GLI VR6 4dr,Sedan,Europe,Front,23785
+Volkswagen,New Beetle GLS convertible 2dr,Sedan,Europe,Front,23215
+Volkswagen,Passat GLS 4dr,Sedan,Europe,Front,23955
+Volkswagen,Passat GLX V6 4MOTION 4dr,Sedan,Europe,Front,33180
+Volkswagen,Passat W8 4MOTION 4dr,Sedan,Europe,Front,39235
+Volkswagen,Phaeton 4dr,Sedan,Europe,Front,65000
+Volkswagen,Phaeton W12 4dr,Sedan,Europe,Front,75000
+Volkswagen,Jetta GL,Wagon,Europe,Front,19005
+Volkswagen,Passat GLS 1.8T,Wagon,Europe,Front,24955
+Volkswagen,Passat W8,Wagon,Europe,Front,40235
+Volvo,XC90 T6,SUV,Europe,All,41250
+Volvo,S40 4dr,Sedan,Europe,Front,25135
+Volvo,S60 2.5 4dr,Sedan,Europe,All,31745
+Volvo,S60 T5 4dr,Sedan,Europe,Front,34845
+Volvo,S60 R 4dr,Sedan,Europe,All,37560
+Volvo,S80 2.9 4dr,Sedan,Europe,Front,37730
+Volvo,S80 2.5T 4dr,Sedan,Europe,All,37885
+Volvo,C70 LPT convertible 2dr,Sedan,Europe,Front,40565
+Volvo,C70 HPT convertible 2dr,Sedan,Europe,Front,42565
+Volvo,S80 T6 4dr,Sedan,Europe,Front,45210
+Volvo,V40,Wagon,Europe,Front,26135
+Volvo,XC70,Wagon,Europe,All,35145
